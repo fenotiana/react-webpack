@@ -10,8 +10,8 @@ Minimal React, Webpack, Babel Setup with Jest, Enzyme and ESLint
 * ESLint
 
 ###### INSTALLATION ######
-- git clone https://github.com/fenotiana/react.git
-- cd react
+- git clone https://github.com/fenotiana/react-webpack.git
+- cd react-webpack
 - yarn install
 - npm start
 - visit http://localhost:8080/
