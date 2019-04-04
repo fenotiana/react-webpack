@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fenotiana/react.svg?branch=master)](https://travis-ci.org/fenotiana/react)
+
 # react webpack
 Minimal React, Webpack, Babel Setup with Jest, Enzyme and ESLint
 
