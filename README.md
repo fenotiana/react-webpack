@@ -1,4 +1,4 @@
-# react
+# react webpack
 Minimal React, Webpack, Babel Setup with Jest, Enzyme and ESLint
 
 ###### FEATURES #######
